@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @programmer1188
+- 👋 Hi, I’m @balaKarumuru
 - 👀 I’m interested in SDE
 - 🌱 I’m currently learning JAVA - DSA
 - 💞️ I’m looking to collaborate on LeetCode Pair Programming
